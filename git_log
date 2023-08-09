@@ -1,3 +1,0 @@
-985cdcb08a0488558d1005139596b64d73bee267 media: ov5640: fix restore of last mode set
-a8f438c684eaa4cbe6c98828eb996d5ec53e24fb media: ov5640: fix auto controls values when switching to manual mode
-c2c3f42df4dd9bb231d756bacb0c897f662c6d3c media: ov5640: fix wrong binning value in exposure calculation
